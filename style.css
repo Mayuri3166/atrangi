@@ -44,8 +44,8 @@ h1{
     background-attachment: fixed;
  }
  .parallax-5{
-    background: url('final.jpg') no-repeat;
-    background-size: contain;
+    background: url('tx.jpg') no-repeat;
+    background-size: cover;
     background-position:center;
     background-attachment: fixed;
  }
